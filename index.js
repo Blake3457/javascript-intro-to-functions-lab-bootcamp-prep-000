@@ -5,5 +5,5 @@ function whisper(string){
   return string.toLowerCase()
 }
 function logShout(string) {
-  expect(logshout('hello')).toEqual('HELLO')
+  
 }
